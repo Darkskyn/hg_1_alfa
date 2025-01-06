@@ -1,16 +1,31 @@
 # Pull Request
 
 ## Descripción
-Por favor, incluye un resumen de los cambios realizados y el propósito de este pull request.
+Este pull request.
 
 ## Tipo de Cambio
-- [ ] Corrección de bug
+- [X] Corrección de bug
 - [ ] Nueva funcionalidad
 - [ ] Mejoras en el código
 
 ## Checklist
-- [ ] He revisado que mi código no tiene errores.
+- [X] He revisado que mi código no tiene errores.
 - [ ] He realizado pruebas suficientes para garantizar el correcto funcionamiento.
 - [ ] He agregado documentación actualizada si es necesario.
+
+# Tipo de usuario
+- [X] Alfa
+- [ ] Bravo 
+- [ ] Charlie
+- [ ] Delta
+- [ ] Echo
+
+# Seleccione el tipo de actividad
+- [ ] Feature
+- [ ] Hotfix
+- [ ] Refactor
+- [ ] Performance
+- [X] Testing
+
 
 ---
